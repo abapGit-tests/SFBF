@@ -4,7 +4,6 @@
   <asx:values>
    <HEADER>
     <BFUNCTION>ZABAPGIT_UNIT_TEST</BFUNCTION>
-    <VERSION>A</VERSION>
    </HEADER>
    <NAME32>short</NAME32>
    <NAME80>long</NAME80>
